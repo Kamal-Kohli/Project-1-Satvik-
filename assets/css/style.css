@@ -85,7 +85,7 @@ h1 {
 }
 
 /* Add style to about button  */
-a:link, a:visited {
+a:link {
   background-color: #46413B;
   color: #F7F7F5;
   padding: 14px 25px;
