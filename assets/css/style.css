@@ -20,7 +20,7 @@ body {
 
 /* heading and logo */
 
-h1, h2 {
+h1 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -67,11 +67,19 @@ h1, h2 {
 
 .container .hero-image {
   position: absolute;
-  bottom: 0;
+  bottom: 300px;
   background: rgba(2, 2, 4, 0.5);
   color: #F7F7F5;
   width: 100%;
   padding: 20px;
   text-align: center;
   font-size: 200%;
+}
+
+/* Add style to about  */
+#about {
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: #46413B;
 }
