@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 /* Add background color to the top navigation */
 * {
@@ -39,7 +40,8 @@ h1 {
   letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
   line-height: 75px;
 }
 
@@ -85,11 +87,6 @@ h1 {
 }
 
 /* Add style to about button  */
-a:link {
-  background-color: #46413B;
-  color: #F7F7F5;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
+
+
+
