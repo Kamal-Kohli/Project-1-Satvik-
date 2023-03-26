@@ -58,9 +58,9 @@ h1, h2 {
   border-bottom: 1px solid #F7F7F5;
 }
 
-/* Add background color to the top navigation */
+/* Add slogan to hero image  */
 .container {
-  position: absolute;
+  position: relative;
   max-width: 100%;
   margin: 0 auto;
 }
