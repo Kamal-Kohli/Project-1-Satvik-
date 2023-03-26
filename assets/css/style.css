@@ -84,6 +84,13 @@ h1 {
   padding-left: 300px;
   padding-right: 300px;
   color: #46413B;
+  
+}
+
+#click {
+  background-color: #46413B;
+  color: #F7F7F5;
+  text-decoration: none;
 }
 
 /* Add style to about button  */
@@ -91,7 +98,13 @@ h1 {
 
 footer {
   background-color: #46413B;
-  height: 90px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: auto;
+  width: 100%;
+  padding-top: 30px;
 }
 
 .social-networks {
