@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.nav-menu {
+  background-color: #46413B;
+  overflow: hidden;
+}
+
+
+body {
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  color: #F7F7F5;
+}
+
+/* heading and logo */
+
+h1, h2 {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #252525;
+}
+
+#logo {
+  float: left;
+  font-size: 280%;
+  margin-left: 30px;
+  color: #F7F7F5;
+}
+
+/* nevigation link and Menu */
+#menu {
+  font-size: 110%;
+  letter-spacing: 4px;
+}
+
+#menu, #logo {
+  line-height: 75px;
+}
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#menu a:hover {
+  border-bottom: 1px solid #F7F7F5;
+}
