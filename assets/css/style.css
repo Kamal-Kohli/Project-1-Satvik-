@@ -72,8 +72,8 @@ h1 {
   bottom: 300px;
   background: rgba(2, 2, 4, 0.5);
   color: #F7F7F5;
-  width: 100%;
-  padding: 20px;
+  width: auto;
+  padding: 40px;
   text-align: center;
   font-size: 200%;
 }
@@ -89,4 +89,18 @@ h1 {
 /* Add style to about button  */
 
 
+footer {
+  background-color: #46413B;
+  height: 90px;
+}
 
+.social-networks {
+  text-align: center;
+}
+
+.social-networks a {
+  font-size: 150%;
+  color: #F7F7F5;
+  margin-top: 100px;
+
+}
