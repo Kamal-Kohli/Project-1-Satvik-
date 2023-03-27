@@ -84,36 +84,14 @@ h1 {
   padding-left: 300px;
   padding-right: 300px;
   color: #46413B;
-  
+
 }
 
-#click {
-  background-color: #46413B;
+
+#button a {
   color: #F7F7F5;
   text-decoration: none;
+  background-color: #46413B;
 }
 
 /* Add style to about button  */
-
-
-footer {
-  background-color: #46413B;
-  position: relative;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: auto;
-  width: 100%;
-  padding-top: 30px;
-}
-
-.social-networks {
-  text-align: center;
-}
-
-.social-networks a {
-  font-size: 150%;
-  color: #F7F7F5;
-  margin-top: 100px;
-
-}
