@@ -87,14 +87,12 @@ h1 {
 
 }
 
-
 #button a {
   color: #F7F7F5;
   text-decoration: none;
   background-color: #46413B;
 }
 
-/* Add style to about button  */
 
 /* Add style to footer  */
 footer {
@@ -117,5 +115,5 @@ footer > a {
 
 footer > p {
 	color: #F7F7F5;
-  
+  margin-top: 2%;
 }
