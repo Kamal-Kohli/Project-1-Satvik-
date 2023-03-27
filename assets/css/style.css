@@ -81,8 +81,8 @@ h1 {
 /* Add style to about  */
 #about {
   text-align: center;
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left: 350px;
+  padding-right: 350px;
   color: #46413B;
 
 }
@@ -95,3 +95,27 @@ h1 {
 }
 
 /* Add style to about button  */
+
+/* Add style to footer  */
+footer {
+	background-color: #46413B;
+	padding: 1em;
+	text-align: center;
+  width: 100%;
+  bottom: 0;
+    
+  right: 0;
+	z-index: 3;
+}
+
+footer > a {
+	color: #F7F7F5;
+	text-decoration: none;
+	padding: 0 25px;
+	font-size: 1.5rem;
+}
+
+footer > p {
+	color: #F7F7F5;
+  
+}
