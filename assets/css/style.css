@@ -89,10 +89,15 @@ h1 {
 
 }
 
+#about p {
+  font-size: 150%;
+}
+
 #button a {
   color: #F7F7F5;
   text-decoration: none;
   background-color: #46413B;
+  
 }
 
 
@@ -116,6 +121,7 @@ h2 {
   color: #46413B;
   text-align: center;
   text-transform: uppercase;
+  text-decoration: underline;
 }
 
 /* gallery */
