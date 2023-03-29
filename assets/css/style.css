@@ -111,27 +111,28 @@ p {
 
 #left-about {
   padding-top: 30px;
-  padding-left: 75px;
+  padding-left: 30px;
   width: 45%;
   float: left;
+  text-align: center;
 }
 
 #right-about {
   padding-top: 30px;
-  padding-right: 75px;
+  padding-right: 30px;
   width: 45%;
   float: right;
+  text-align: center;
 }
 
 .left-about-heading {
-  width: 50%;
-  line-height: 20px;
-  margin-bottom: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .right-about-heading {
-  width: 50%;
-  line-height: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-bottom: 50px;
 }
 
@@ -165,6 +166,7 @@ h2 {
 }
 
 /* gallery */
+
 #gallery {
   clear: both;
   line-height: 0;
