@@ -96,7 +96,7 @@ h1 {
 }
 
 
-
+/* Classes images style */
 .image-row {
   display: flex;
 }
@@ -115,6 +115,19 @@ h2 {
   font-size: 200%;
   color: #46413B;
   text-align: center;
+  text-transform: uppercase;
+}
+
+/* gallery */
+#gallery {
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 0;
+}
+
+#gallery > img {
+  width: 100%;
 }
 
 /* Add style to footer  */
