@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Righteous&display=swap');
 
 /* Add background color to the top navigation */
 * {
@@ -14,7 +14,7 @@
 
 
 body {
-  font-family: Lato, sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 300;
   color: #F7F7F5;
 }
@@ -22,7 +22,7 @@ body {
 /* heading and logo */
 
 h1 {
-  font-family: Oswald, sans-serif;
+  font-family: Righteous, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #F7F7F5;
@@ -152,14 +152,14 @@ h2 {
 .signup-form {
   margin: 150px 0 0 25%;
   color: #F7F7F5;
-  background-color: rgba(70,65,59, 0.7);
+  background-color: rgba(70, 65, 59, 0.7);
   max-width: 500px;
   position: absolute;
   left: 10%;
   padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
   color: #F7F7F5;
   margin-bottom: 25px;
   text-decoration: none;
@@ -191,7 +191,7 @@ h2 {
 }
 
 ::placeholder {
-  color: rgba(247,247,245, 0.5);
+  color: rgba(247, 247, 245, 0.5);
   text-align: center;
 }
 
@@ -221,9 +221,6 @@ footer>p {
 
 /* map */
 #map-wrapper {
-    margin-top: 70px;
-    height: 500px;
-    margin-bottom: 75px;
-    text-align: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
 }
-
