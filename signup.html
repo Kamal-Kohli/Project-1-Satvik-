@@ -33,24 +33,31 @@
             <h2>Join us for a membership <i class="fa-solid fa-handshake"></i></h2>
             <label for="fname">First Name:</label>
             <input class="text-input" id="fname" name="first_name" type="text" placeholder="Enter Your Name" required>
-            
+
             <label for="lname">Last Name:</label>
             <input class="text-input" id="lname" name="last_name" type="text" placeholder="Enter Your Surname" required>
-            
+
             <label for="email">Email Address:</label>
-            <input class="text-input" type="email" id="email" name="email_address" placeholder="Enter Your Email" required>
-            
+            <input class="text-input" type="email" id="email" name="email_address" placeholder="Enter Your Email"
+                required>
+
             <label for="road">Yoga</label>
             <input type="radio" id="road" name="running_preference" value="road" required>
             <label for="trail">Meditation</label>
             <input type="radio" id="trail" name="running_preference" value="trail" required>
             <label for="both">Both</label>
             <input type="radio" id="both" name="running_preference" value="both" required>
-            
+
             <input class="join-button" type="submit" value="Submit!">
         </form>
     </section>
+    <br>
 
+    <section id="map-wrapper">
+        <h2>You can locate us here:</h2>
+        <br>
+        <iframe id="map" src="https://bit.ly/2QVfkiy" width="100%" height="500"></iframe>
+    </section>
 
     <!-- Footer inspired by Coffee shop project. -->
     <footer class="text-uppercase">
