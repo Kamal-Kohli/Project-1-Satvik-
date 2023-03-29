@@ -96,6 +96,27 @@ h1 {
 }
 
 
+
+.image-row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.image-row h3 {
+  text-align: center;
+  color: #46413B;
+}
+
+h2 {
+  font-size: 200%;
+  color: #46413B;
+  text-align: center;
+}
+
 /* Add style to footer  */
 footer {
   background-color: #46413B;
