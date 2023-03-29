@@ -136,6 +136,14 @@ h2 {
   width: 100%;
 }
 
+/* Sign Up */
+
+.form-section {
+  clear: left;
+  background-image: url("assets/images/main-cover.jpg");
+}
+
+
 /* Add style to footer  */
 footer {
   background-color: #46413B;
