@@ -216,8 +216,7 @@ h2 {
   display: block;
 }
 
-input[type=reset] {
-
+.reset {
   margin-top: 20px;
   border-radius: 2px;
   padding: 15px 32px 15px 32px;
@@ -228,6 +227,10 @@ input[type=reset] {
   display: block;
 }
 
+.join-button .reset {
+  float: left;
+  width: 50%;
+}
 
 .text-input {
   background: transparent;
