@@ -103,12 +103,6 @@ p {
   padding: 10px 30px 10px 30px;
 }
 
-#club-ethos {
-  height: 600px;
-  width: 100%;
-  display: inline;
-}
-
 #left-about {
   padding-top: 30px;
   padding-left: 30px;
@@ -283,10 +277,12 @@ footer>p {
 
   height: 500px;
   margin-bottom: 15px;
+  padding-bottom: 25px;
 }
 
 #map {
   height: 100%;
   width: 100%;
   border: none;
+
 }
