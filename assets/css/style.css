@@ -280,8 +280,8 @@ footer>p {
 
 }
 
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
+/* For medium screen sizes from 1000px wide and down */
+@media screen and (max-width: 1000px) {
 
   #menu {
     clear: left;
@@ -295,7 +295,7 @@ footer>p {
     left: 0;
   }
 
-  #club-ethos {
+  #main-about {
     width: 90%;
     height: 1200px;
     margin: 0 auto;
