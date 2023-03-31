@@ -283,10 +283,6 @@ footer>p {
 /* For medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
-  #menu {
-    float: none;
-  }
-
   .container .cover-text {
     position: absolute;
     bottom: 100px;
@@ -319,10 +315,6 @@ footer>p {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-  #menu {
-    float: none;
-  }
-
 
   .container .cover-text {
     position: absolute;
@@ -337,10 +329,11 @@ footer>p {
 @media screen and (max-width: 850px) {
 
   #menu {
+    clear: left;
     float: left;
-    margin-left: 20px;
-    margin-bottom: 10px;
-    line-height: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
   }
 
   .container .cover-text {
@@ -381,6 +374,27 @@ footer>p {
 
   .image-row {
     column-count: 1;
+  }
+
+}
+
+/* For medium screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+
+  #menu {
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    line-height: 20px;
+  }
+
+  .container .cover-text {
+    position: absolute;
+    bottom: 100px;
+    width: 50%;
+    padding: 40px;
+    text-align: center;
+    font-size: 100%;
   }
 
 }
