@@ -287,9 +287,13 @@ footer>p {
     float: none;
   }
 
-  .cover-text {
-    float: none;
-    margin: 500px 0 0 0;
+  .container .cover-text {
+    position: absolute;
+    bottom: 100px;
+    width: auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 150%;
   }
 
   #about {
@@ -312,14 +316,41 @@ footer>p {
   }
 }
 
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+  #menu {
+    float: none;
+  }
+
+
+  .container .cover-text {
+    position: absolute;
+    bottom: 300px;
+    width: auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 150%;
+  }
+}
+
 /* For medium screen sizes from 850px wide and down */
 @media screen and (max-width: 850px) {
 
   #menu {
-    float: none;
+    float: left;
     margin-left: 20px;
     margin-bottom: 10px;
     line-height: 20px;
+  }
+
+  .container .cover-text {
+    position: absolute;
+    bottom: 100px;
+    width: auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 150%;
   }
 
   #main-about {
