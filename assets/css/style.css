@@ -405,6 +405,7 @@ footer>p {
   #menu {
     clear: left;
     float: left;
+    width: auto;
   }
 
   .container .cover-text {
