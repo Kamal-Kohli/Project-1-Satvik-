@@ -398,3 +398,15 @@ footer>p {
   }
 
 }
+
+/* For medium screen sizes from 375px wide and down */
+@media screen and (max-width: 375px) {
+  .container .cover-text {
+    position: absolute;
+    bottom: 10px;
+    width: auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 75%;
+  }
+}
