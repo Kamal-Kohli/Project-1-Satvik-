@@ -285,9 +285,6 @@ footer>p {
 
   #menu {
     float: none;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
   }
 
   .cover-text {
@@ -296,11 +293,22 @@ footer>p {
 
   #about {
     text-align: center;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 
   .image-row {
-    position: initial;
+    position: static;
   }
 }
+
+/* For medium screen sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+
+  #menu {
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    line-height: 25px;
+  }
+
