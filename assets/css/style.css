@@ -406,6 +406,7 @@ footer>p {
     clear: left;
     float: left;
     width: 100%;
+    font-size: 75%;
   }
 
   .container .cover-text {
