@@ -399,8 +399,8 @@ footer>p {
 
 }
 
-/* For medium screen sizes from 375px wide and down */
-@media screen and (max-width: 375px) {
+/* For medium screen sizes from 300px wide and down */
+@media screen and (max-width: 300px) {
 
   .nav-menu {
     clear: left;
@@ -418,3 +418,4 @@ footer>p {
     font-size: 75%;
   }
 }
+
