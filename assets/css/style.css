@@ -326,7 +326,6 @@ footer>p {
 
   .container .cover-text {
     position: absolute;
-    bottom: 300px;
     width: auto;
     padding: 40px;
     text-align: center;
@@ -380,5 +379,8 @@ footer>p {
     margin: 100px 0 0 0;
   }
 
+  .image-row {
+    column-count: 1;
+  }
 
 }
