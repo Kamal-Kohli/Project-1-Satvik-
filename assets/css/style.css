@@ -318,7 +318,7 @@ footer>p {
 
   .container .cover-text {
     position: absolute;
-    width: auto;
+    width: 100%;
     padding: 40px;
     text-align: center;
     font-size: 150%;
@@ -339,7 +339,7 @@ footer>p {
   .container .cover-text {
     position: absolute;
     bottom: 100px;
-    width: auto;
+    width: 100%;
     padding: 40px;
     text-align: center;
     font-size: 150%;
