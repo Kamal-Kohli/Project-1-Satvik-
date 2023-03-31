@@ -402,10 +402,10 @@ footer>p {
 /* For medium screen sizes from 375px wide and down */
 @media screen and (max-width: 375px) {
 
-  #menu {
+  .nav-menu {
     clear: left;
     float: left;
-    width: auto;
+    width: 100%;
   }
 
   .container .cover-text {
