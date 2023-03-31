@@ -401,6 +401,12 @@ footer>p {
 
 /* For medium screen sizes from 375px wide and down */
 @media screen and (max-width: 375px) {
+
+  #menu {
+    clear: left;
+    float: left;
+  }
+
   .container .cover-text {
     position: absolute;
     bottom: 10px;
