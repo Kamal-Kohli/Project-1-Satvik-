@@ -67,7 +67,7 @@ h1 {
   margin: 0 auto;
 }
 
-.container .hero-image {
+.container .cover-text {
   position: absolute;
   bottom: 300px;
   background: rgba(2, 2, 4, 0.5);
@@ -78,15 +78,15 @@ h1 {
   font-size: 200%;
 }
 
-.hero-image p {
+.cover-text p {
   color: #F7F7F5;
 }
 
 /* Add style to about  */
 #about {
   text-align: center;
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left: 200px;
+  padding-right: 200px;
   color: #46413B;
 
 }
@@ -280,52 +280,27 @@ footer>p {
 
 }
 
-/* For medium screen sizes from 1000px wide and down */
-@media screen and (max-width: 1000px) {
+/* For medium screen sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {
 
   #menu {
-    clear: left;
-    float: left;
+    float: none;
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
   }
 
-  #cover-text {
-    left: 0;
+  .cover-text {
+    float: left;
   }
 
-  #main-about {
-    width: 90%;
-    height: 1200px;
-    margin: 0 auto;
-  }
-
-  .left-about-heading,
-  .right-about-heading {
-    width: inherit;
-  }
-
-  .left-about-heading h2,
-  .right-about-heading h2 {
-    width: 100%;
+  #about {
     text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
-  .left-about-heading p,
-  .right-about-heading p {
-    text-align: center;
-    padding: 0 20px;
-  }
-
-  #photos {
-    column-count: 3;
-  }
-}
-
-/* For small screen sizes 800px and down */
-@media screen and (max-width: 800px) {
-  #photos {
-    column-count: 2;
+  .image-row {
+    position: initial;
   }
 }
