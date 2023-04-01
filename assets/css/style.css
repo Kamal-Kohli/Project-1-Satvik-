@@ -178,16 +178,15 @@ h2 {
   background-size: cover;
   background-position: center;
   height: 800px;
-  width: 100%;
 }
 
 .signup-form {
-  margin: 150px 0 0 25%;
+  margin: 150px 0 0 0;
   color: #46413B;
   background-color: rgba(247, 247, 245, 0.8);
   max-width: 500px;
   position: absolute;
-  left: 10%;
+  left: 30%;
   padding: 30px;
 }
 
@@ -307,8 +306,10 @@ footer>p {
   }
 
   .signup-form {
-    float: left;
-    margin: 100px 0 0 0;
+    margin: 150px 50px 0 0;
+    left: 10%;
+    padding: 30px;
+    
   }
 }
 
@@ -366,10 +367,6 @@ footer>p {
     column-count: 2;
   }
 
-  .signup-form {
-    float: left;
-    margin: 100px 0 0 0;
-  }
 
   .image-row {
     column-count: 1;
