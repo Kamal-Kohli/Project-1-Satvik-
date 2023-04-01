@@ -90,13 +90,15 @@ Satvik life site live here [CLICK HERE..](https://kamal-kohli.github.io/Project-
 ![Sign Up Form](assets/image-readme/join-us-min.png)
 [Go to Sign Up](https://8000-kamalkohli-project1satv-tea8wr192qb.ws-eu93.gitpod.io/signup.html)
 
-### Colour Scheme:
+### Colour theme:
 Special care has been taken of the colors here, so that the user can easily use the dark and light modes without straining the eyes. Its gray and light beige color has been chosen to be soothing to your eyes.
 ![Colors](assets/image-readme/color.jpeg)
 
 ### Typography:
-To make it easier for the user to understand, only two fonts have been used here for writing, "Righteous, sans-serif" for main headings and "Raleway, sans-serif" for paragraphs. Which is available on Google Font's free source, we have given its details in the credit given below. In general, this font makes it easy for you to read the information, so that you can get the complete details of the information given to you.
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Righteous&display=swap');
+To make it easier for the user to understand, only two fonts have been used here for writing, "Righteous" for main headings and "Raleway" for paragraphs. Which is available on Google Font's free source, we have given its details in the credit given below. In general, this font makes it easy for you to read the information, so that you can get the complete details of the information given to you.
+
+[Font Righteous](https://fonts.google.com/share?selection.family=Righteous)-
+[Font Raleway](https://fonts.google.com/share?selection.family=Raleway)
 
 
 ## Features
