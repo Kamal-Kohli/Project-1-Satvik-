@@ -126,19 +126,20 @@ To make it easier for the user to understand, only two fonts have been used here
 - Tested the site opens in Brave, Chrome & Safari without issues.
 - All links open to external pages as intended.
 
-### Unfixed Bugs
-
 ## Technologies Used
-### Main Languages Used
+### Programme
 - HTML5
 - CSS3
 
+### Editor
+- Github
+- Gitpod
+
 ### Frameworks, Libraries & Programs Used
-- Google Fonts - for the font families: Special Elite, Raleway & Cabin Sketch. San-serif was used as a default font.
+- Google Fonts - for the font families: Righteous & Raleway. San-serif was used as a default font.
 - Font Awesome - to add icons to the social links in the footer element.
 - GitPod - to creat my html files & styling sheet before pushing the project to Github.
 - GitHub - to store my repository for submission.
-- Figma & Adobe Illustrator - were used to create mockups of the project prior to starting.
 - Am I Responsive? - to ensure the project looked good across all devices.
 - Favicon - to provide the code & image for the icon in the tab bar.
 
@@ -147,7 +148,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-- The live link can be found [HERE - La Lucha](https://cluelessbiker.github.io/project1-la-lucha/index.html)
+- The live link can be found [HERE...](https://kamal-kohli.github.io/Project-1-Satvik-/)
 
 ## Credits
 
