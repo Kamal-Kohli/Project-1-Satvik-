@@ -9,32 +9,37 @@ Meditation or “dhyana” is also a part of yoga. Like the physical practice of
 
 Satvik life site live here [CLICK HERE..](https://kamal-kohli.github.io/Project-1-Satvik-/)
 
-## F
-+ [UX](#ux "UX")
-  + [Site Purpose](#site-purpose "Site Purpose")
+## INDEX
++ [SITE FEATURES](#site-features "SITE FEATURES")
+  + [SITE FEATURES](#site-features "SITE FEATURES")
   + [Site Goal](#site-goal "Site Goal")
   + [Audience](#audience "Audience")
   + [Communication](#communication "Communication")
   + [Current User Goals](#current-user-goals "Current User Goals")
-  + [New User Goals](#new-user-goals "New User Goals")
 + [FEATURES](#features "FEATURES")
+  + [Navigation Bar](#navigation-bar "Navigation Bar")
+  + [Our Slogan](#our-slogan "Our Slogan")
+  + [Our Services](#our-services "Our Services")
+  + [Footer](#footer "Footer")
+  + [About us](#about-us "About us")
+  + [Gallery](#gallery "Gallery")
+  + [Location](#location "Location")
+  + [Sign Up](#sign-up "Sign Up")
   + [Colour Scheme](#colour-scheme "Colour Scheme")
   + [Typography](#typography "Typography")
-  + [Imagery](#imagery "Imagery")
-+ [Features](#features "Features")
-  + [Existing Features](#existing-features "Existing Features")
++ [FUTURE FEATURES](#future-features "FUTURE FEATURES")
 + [Testing](#testing "Testing")
   + [Validator Testing](#validator-testing "Validator Testing")
-  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
-+ [Technologies Used](#technologies-used "Technologies Used")
-  + [Main Languages Used](#main-languages-used "Main Languages Used")
++ [TECHNOLOGIES USED](#technologies-used "TECHNOLOGIES USED")
+  + [Programme](#programme "Programme")
+  + [Editor](#editor "Editor")
   + [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used "Frameworks, Libraries & Programs Used")
-+ [Deployment](#deployment "Deployment")
-+ [Credits](#credits "Credits")
++ [DEPLOYMENT](#deployment "DEPLOYMENT")
++ [CREDITS](#credits "CREDITS")
   + [Content](#content "Content")
   + [Media](#media "Media")
 
-## UX
+## SITE FEATURES
 
 ### Site Purpose:
 - To reach out to those people with whom we have not yet been touched and who are far from our reach. Through the Site, we can deliver our services to anyone anywhere in the world.
@@ -101,7 +106,7 @@ To make it easier for the user to understand, only two fonts have been used here
 [Font Raleway](https://fonts.google.com/share?selection.family=Raleway)
 
 
-### FUTURE FEATURES:
+## FUTURE FEATURES:
  - Service Pages with Pricing
  - Booking slots
  - Online classes portal
@@ -123,10 +128,9 @@ To make it easier for the user to understand, only two fonts have been used here
 - page has an excellent Accessibility rating in Lighthouse
 ![Accessibility score](assets/images/lighthouse-analytics.png)
 
-- Tested the site opens in Brave, Chrome & Safari without issues.
-- All links open to external pages as intended.
+- Tested the site opens in Opera, Chrome & Safari without issues.
 
-## Technologies Used
+## TECHNOLOGIES USED
 ### Programme
 - HTML5
 - CSS3
@@ -143,14 +147,14 @@ To make it easier for the user to understand, only two fonts have been used here
 - Am I Responsive? - to ensure the project looked good across all devices.
 - Favicon - to provide the code & image for the icon in the tab bar.
 
-## Deployment
+## DEPLOYMENT
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 - The live link can be found [HERE...](https://kamal-kohli.github.io/Project-1-Satvik-/)
 
-## Credits
+## CREDITS
 
 ### Content
 As my knowledge of implementation is limited at this point in my learning, the initial set up & style was set loosely on the 'Love Running' & 'Coffee Shop' walk-through project. From there, I took inspiration for the design of the navigation bar, along with the display of the social links in the footer element.
