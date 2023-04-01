@@ -153,49 +153,36 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 ## Credits
 
 ### Content
-As my knowledge of implementation is limited at this point in my learning, the initial set up & style was set loosely on the 'Love Running' walk-through project. From there, I took inspiration for the design of the navigation bar, along with the display of the social links in the footer element.
+As my knowledge of implementation is limited at this point in my learning, the initial set up & style was set loosely on the 'Love Running' & 'Coffee Shop' walk-through project. From there, I took inspiration for the design of the navigation bar, along with the display of the social links in the footer element.
 
-The styling of the form element in 'Love Running' was used as a starting point for my form to help remember all categories that needed to be addressed.
+The styling of the form element in 'Love Running' & 'Coffee Shop' was used as a starting point for my form to help remember all categories that needed to be addressed.
 
-Stackoverflow [Reply](https://stackoverflow.com/questions/16056591/font-scaling-based-on-width-of-container) was used to fix the issue with scaling font sizes, where I was reminded of how to size fonts with viewport widths & heights.
+-I took some style referance from 'w3schools' online free source for Navigation bar and footer backgroung color.
+[Referance](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 
-Stackoverflow [Reply](https://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only) was used to fix the issue with image sizes within their containers, where I found the styling rule 
-```
-background-size: 100% 100%;.
-```
+-For [Image side by side](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) also referance taken from 'w3schools' for the landing page 
 
-Another useful site that also helped with my image sizing issues & explained it in more detail was [Digital Ocean](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit).
-
-
-My cousin turned me on to [flex style rules](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), & with those, I was finally able to fix my alignment issues both horizontally & vertically using the following three rules:
-```
-1. display:flex; 
-2. align-items:center; 
-3. justify-content:space-between;
-```
-Stackoverflow [Reply](https://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only) supplied the style rules to stretch the text in the "locations" page banner.
-```
-1. transform: scaleY(2);
-2. transform-origin: 0 0;
-```
-Stackoverflow [Reply](https://stackoverflow.com/questions/63437323/how-to-remove-display-flex-in-media-query) provided the answer on how to undo my flex styling rule.
-
-Stackoverflow [Reply](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website) explained how to add an icon to the browser tab of the web page.
-
-Support was provided by my fellow student [Mats](https://github.com/Pelikantapeten/p1-nacka-tomato-society) by aiding me in bouncing off ideas & venting frustrations. They were also immeasurably helpful in explaining Media Queries in a way that I was able to grasp. They also informed me that when creating a contact form, one most also create a form-dump page.
+Some support was provided by my fellow student through our 'SLACK community'. They were also immeasurably helpful in explaining positioning containers in a way that I was able to grasp. I also got suggestion for device layout & how to write me readme file in Gitpod
 
 ### Media
-- Hero image is called ["Food Truck in the Street"](https://www.thebalancesmb.com/thmb/IRZI2gmNsYFTTPCH774ohMD4uJE=/2088x1436/filters:fill(auto,1)/food-truck-in-the-street-496731672-863bfb69328341c1804fec18e39be715.jpg) by Maica
+- Hero image is called ["Wommen perfoming Yoga"](https://www.pexels.com/photo/2-women-sitting-on-galaxy-design-yoga-mat-3822226/) by Elina Fairytale
 
-The following images came from Pexel:
-- [Three Purple Chairs - Pexel](https://www.pexels.com/photo/three-purple-plastic-chairs-3013212/)
-- [Photo by Brett Sayles - B&W Aztec food truck](https://www.pexels.com/photo/grayscale-photograph-of-two-people-standing-in-front-of-food-truck-1264937/)
-- [Photo by Jess - shrimp tacos](https://www.pexels.com/photo/white-and-blue-bus-near-green-palm-tree-under-blue-sky-4609255/)
-- [Photo by cottonbro - chalk background](https://www.pexels.com/photo/black-wall-in-close-up-image-3826435/)
-- [Photo by Andrea Piacquadio - messy chalkboard](https://www.pexels.com/photo/woman-in-red-long-sleeve-writing-on-chalk-board-3769714/)
-- [Photo by Rodnae Productions - foodtruck staff](https://www.pexels.com/photo/man-and-woman-standing-in-front-of-the-food-truck-5779665/)
-- [Photo by Roberto Nickson - palm trees](https://www.pexels.com/photo/green-and-brown-coconut-trees-under-clear-blue-sky-2486168/)
+The following images and there links for HOME PAGE:
+- [woman performing yoga](https://www.pexels.com/photo/woman-in-scorpion-pose-3822142/)
+- [man doing meditation](https://www.pexels.com/photo/a-man-in-white-thobe-meditating-on-the-mountain-top-4340795/)
+- [Healthy food](https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/)
 
-Stocksnap supplied this one:
-- [Photo by Bruce Mars - vegetable stand](https://stocksnap.io/photo/vegetable-stall-KZ19NV9MVY)
+The following images and there links for ABOUT US PAGE:
+- [Upside down yoga class](https://www.pexels.com/photo/woman-in-scorpion-pose-3822142/)
+- [Straching with autism girl](https://www.pexels.com/photo/photo-of-women-stretching-together-4056726/)
+- [Thee female students and yoga instructor](https://www.pexels.com/photo/women-doing-yoga-3822668/)
+- [Woman doing mediation on the mountain](https://www.pexels.com/photo/woman-in-black-sports-bra-and-black-pants-sitting-on-rock-5184327/)
+- [A group performing rope yoga](https://www.pexels.com/photo/group-of-women-doing-yoga-swing-6582869/)
+- [Woman doing peacock pose in yoga](https://www.pexels.com/photo/a-woman-in-brown-leggings-balancing-her-body-on-a-yoga-mat-4534867/)
+- [A group yoga practice](https://www.pexels.com/photo/people-doing-yoga-in-the-studio-8436589/)
+- [A group meditation](https://www.pexels.com/photo/group-of-women-doing-yoga-exercise-8436719/)
+
+Fevicon:
+- [Yoga icon](https://www.flaticon.com/free-icon/yoga-posture_55316)
+
   
