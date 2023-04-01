@@ -103,6 +103,13 @@ p {
   padding: 10px 30px 10px 30px;
 }
 
+.right-heading-1 {
+  margin-top: 3%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 50px;  
+}
+
 #left-about {
   padding-top: 30px;
   padding-left: 30px;
@@ -117,17 +124,7 @@ p {
   width: 45%;
   float: right;
   text-align: center;
-}
-
-.left-about-heading {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-.right-about-heading {
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 2%;
 }
 
 hr {
