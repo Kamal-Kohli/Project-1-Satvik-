@@ -126,7 +126,7 @@ To make it easier for the user to understand, only two fonts have been used here
 ![Jigsaw validator message](assets/image-readme/css.png)
 
 - page has an excellent Accessibility rating in Lighthouse
-![Accessibility score](assets/images/lighthouse-analytics.png)
+![Alt text](assets/image-readme/lighthouse-analytics.png)
 
 - Tested the site opens in Opera, Chrome & Safari without issues.
 
